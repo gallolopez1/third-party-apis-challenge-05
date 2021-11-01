@@ -1,4 +1,29 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# Challenge 05: Third-Party APIs - Work Day Scheduler
+
+## Description
+
+For those who love to have things organized...this work day scheduler is a perfect tool to help the user plan their day.
+
+## Links
+
+* 🌎 [Live Github Page] (https://gallolopez1.github.io/third-party-apis-challenge-05/)
+* 💾 [Repo] (https://github.com/gallolopez1/third-party-apis-challenge-05)
+
+## <u>Code Quiz Preview:</u>
+
+### -
+
+<img src="#" alt="#" />
+
+### -
+
+<img src="#" alt="#" />
+
+### -
+
+<img src="#" alt="#" />
+
+# Activity Instructions:
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -29,18 +54,3 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
-The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
