@@ -6,8 +6,8 @@ For those who love to have things organized...this work day scheduler is a perfe
 
 ## Links
 
-* 🌎 [Live Github Page] (https://gallolopez1.github.io/third-party-apis-challenge-05/)
-* 💾 [Repo] (https://github.com/gallolopez1/third-party-apis-challenge-05)
+* 🌎 [Live Github Page] (https://gallolopez1.github.io/work-day-scheduler/)
+* 💾 [Repo] (https://github.com/gallolopez1/work-day-scheduler)
 
 ## <u>Code Quiz Preview:</u>
 
