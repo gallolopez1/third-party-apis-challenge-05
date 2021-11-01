@@ -9,7 +9,7 @@ For those who love to have things organized...this work day scheduler is a perfe
 * 🌎 [Live Github Page] (https://gallolopez1.github.io/work-day-scheduler/)
 * 💾 [Repo] (https://github.com/gallolopez1/work-day-scheduler)
 
-## <u>Code Quiz Preview:</u>
+## <u>Work Day Scheduler - Preview:</u>
 
 ### -
 
